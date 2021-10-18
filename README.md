@@ -1,7 +1,7 @@
 <h1 align="center">.itActuallyShon( )</h1>
 <h3 align="center">A student who trying to Study Coding More!!</h3>
 
-<img align="right" alt="Coding" width="400px" src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg">
+<img align="right" alt="Coding" width="500px" src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TapZze&label=Profile%20views&color=129e00&style=plastic" alt="TapZze" /> </p>
 
 
