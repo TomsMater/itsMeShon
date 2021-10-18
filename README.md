@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think I am pro at Web Development**
 
-<p><img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsMeShon&show_icons=true&locale=en&layout=compact" alt="TapZze" /></p
+<p><img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsMeShon&show_icons=true&locale=en&layout=compact" alt="TapZze" /></p
     
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsMeShon&show_icons=true&locale=en" alt="itsMeShon" /></p>
 
