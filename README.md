@@ -1,8 +1,9 @@
 <h1 align="center">.itActuallyShon( )</h1>
 <h3 align="center">A student who trying to Study Coding More!!</h3>
 
+<img align="right" alt="Coding" width="600px" src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TapZze&label=Profile%20views&color=129e00&style=plastic" alt="TapZze" /> </p>
-<img align="right" alt="Coding" width="400px" src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg">
+
 
 - 👨‍💻 Hello I am shon santhosh and I am 13years old, I am creating some cool websites to improve my skills. I am trying to Cover most of all the topics of [ReactJS](https://reactjs.org) trying to cover up some cool Frameworks looking forward to Front-end Development.
 
@@ -10,11 +11,11 @@
 
 - ⚡ Fun fact **I think I am pro at Web Development**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TapZze&show_icons=true&locale=en&layout=compact" alt="TapZze" /></p
+<p><img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsMeShon&show_icons=true&locale=en&layout=compact" alt="TapZze" /></p
     
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TapZze&show_icons=true&locale=en" alt="TapZze" /></p>
+<p>&nbsp;<img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=itsMeShon&show_icons=true&locale=en" alt="itsMeShon" /></p>
 
-<h3>Languages :</h3>
+<!-- <h3>Languages :</h3>
    
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -52,3 +53,4 @@
 [![figma](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)]()
 [![figma](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)]()
 
+ -->
