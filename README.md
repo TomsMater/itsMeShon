@@ -2,7 +2,7 @@
 <h3 align="center">A student who trying to Study Coding More!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TapZze&label=Profile%20views&color=129e00&style=plastic" alt="TapZze" /> </p>
-<img align="right" alt="Coding" width="400px" src="https://github.com/TapZze/TapZze/blob/main/undraw_feeling_proud_qne1.png">
+<img align="right" alt="Coding" width="400px" src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg">
 
 - 👨‍💻 Hello I am shon santhosh and I am 13years old, I am creating some cool websites to improve my skills. I am trying to Cover most of all the topics of [ReactJS](https://reactjs.org) trying to cover up some cool Frameworks looking forward to Front-end Development.
 
