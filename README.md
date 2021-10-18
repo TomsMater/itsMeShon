@@ -1,7 +1,7 @@
 <h1 align="center">.itActuallyShon( )</h1>
 <h3 align="center">A student who trying to Study Coding More!!</h3>
 
-<img align="right" alt="Coding" width="600px" src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg">
+<img align="right" alt="Coding" width="400px" src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TapZze&label=Profile%20views&color=129e00&style=plastic" alt="TapZze" /> </p>
 
 
@@ -11,9 +11,9 @@
 
 - ⚡ Fun fact **I think I am pro at Web Development**
 
-<p><img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsMeShon&show_icons=true&locale=en&layout=compact" alt="TapZze" /></p
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsMeShon&show_icons=true&locale=en&layout=compact" alt="TapZze" /></p
     
-<p>&nbsp;<img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=itsMeShon&show_icons=true&locale=en" alt="itsMeShon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsMeShon&show_icons=true&locale=en" alt="itsMeShon" /></p>
 
 <!-- <h3>Languages :</h3>
    
