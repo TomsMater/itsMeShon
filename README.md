@@ -12,6 +12,9 @@
 
 - <p align="left"> <img with="300px" src="https://komarev.com/ghpvc/?username=TapZze&label=Profile%20views&color=red&style=flat-square" alt="TapZze" /> </p>
 
+## <h3 align="left">GitHub Stats</h3>
+[![itsMeShon's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsMeShon&theme=xcode)](https://git.io/JiYW8)
+
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsMeShon&show_icons=true&locale=en&layout=compact" alt="TapZze" /></p
     
