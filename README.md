@@ -1,7 +1,7 @@
 <h1 align="center">.itsMeShon( )</h1>
 <h3 align="center">A student who trying to Study Coding More!!</h3>
 
-<img align="right" alt="img" width="200px" src="https://github.com/itsMeShon/itsMeShon/blob/main/labor-day-yellow-dog-builder-protective-helmet-smile-isolated-white-vector-cartoon-illustration-90190950-removebg-preview.png">
+<img align="right" alt="img" width="300px" src="https://github.com/itsMeShon/itsMeShon/blob/main/professor-pug981067-prints-removebg-preview.png">
 
 
 - 👨‍💻 Hello I am shon santhosh and I am 13years old, I am creating some cool websites to improve my skills. I am trying to Cover most of all the topics of [ReactJS](https://reactjs.org) trying to cover up some cool Frameworks looking forward to Front-end Development.
