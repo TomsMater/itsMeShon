@@ -6,7 +6,7 @@
 
 - Hello I am shon santhosh and I am 13years old, Full-stack web developer, specializing in mostly NodeJS, but also write Python, Js, and some other stuff.
 
-- 📫 How to reach me **shonsanthosh378@gmail.com**
+- 📫 How to reach me **shonsanthosh1977@gmail.com**
 
 - ⚡ Fun fact **I think I am pro at Web Development**
 
