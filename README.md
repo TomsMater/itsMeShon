@@ -1,10 +1,10 @@
 <h1 align="center">.itsMeShon( )</h1>
-<h3 align="center">A student who trying to Study Coding More!!</h3>
+<h3 align="center">I am A student who Is trying to Study Coding More Detailed.I want To Gain More Knowledge {Knowledge Is Power}!!</h3>
 
 <img align="right" alt="img" width="400px" src="https://github.com/itsMeShon/itsMeShon/blob/main/Galerie__Bigfoot_Junior__Freisteller-removebg-preview.png">
 
 
-- Hello I am shon santhosh and I am 13years old, Full-stack web developer, specializing in mostly NodeJS, but also write Python, Js, and some other stuff.
+- Hello I am shon santhosh and I am 13years old, Full-stack web developer, specializing in mostly NodeJS, but i also write Python, Js, and some other stuff.
 
 - 📫 How to reach me **shonsanthosh1977@gmail.com**
 
